@@ -1,5 +1,5 @@
 function sayHello(name) {
-    console.log(name)
+    console.log("hello " + name)
 }
 
 sayHello("Brendon")
